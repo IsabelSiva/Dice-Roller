@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Dice Roller
 
 ## Descrição:
@@ -8,6 +7,3 @@
 ### + Android Studio
 ### + Kotlin
 
-=======
-# Dice-Roller
->>>>>>> 2babc79bc92074f414d9e048277202ade6565d2a
